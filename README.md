@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Quantium</h1>
   <kbd>
-    <img width="569" alt="Quantium banner" src="https://i.ibb.co/WtVWrXX/image.jpg]https://s151.convertio.me/p/csdx0AsJn59ZQLHPUEuU8A/5a26aa5a930c69e7e2921ea03844aa2f/QantiymPrev.gif">
+    <img width="569" alt="Quantium banner" src="https://s151.convertio.me/p/csdx0AsJn59ZQLHPUEuU8A/5a26aa5a930c69e7e2921ea03844aa2f/QantiymPrev.gif">
   </kbd>
   <h3>Adds additional functionality to Meteor Client ☄️</h3>
   <img alt="Minecraft" src="https://img.shields.io/badge/Minecraft-1.19.2-ff00ff?logo=hackthebox&logoColor=white&style=flat-square">
